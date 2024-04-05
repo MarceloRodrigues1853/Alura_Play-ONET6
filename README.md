@@ -8,28 +8,30 @@ O **Alura Play** é um **projeto fictício** de uma plataforma de vídeos educat
 
 ## Estrutura do Projeto
 
-O projeto consiste em uma página HTML básica com a **implementação de flexbox** para o layout. Ele inclui:
+O projeto consiste em uma página HTML básica com a **implementação de flexbox** para o **layout**. Ele inclui:
 
 
-- Um **cabeçalho** com um menu de navegação e barra de pesquisa.
+- Um **cabeçalho** com um `menu de navegação` e `barra de pesquisa`.
 
 
-- Um **menu lateral** com opções de navegação.
+- Um **menu lateral** com `opções de navegação`.
 
 
-- Uma **seção superior** com links para diferentes categorias.
+- Uma **seção superior** com `links` para diferentes categorias.
 
 
-- Uma **seção de vídeos** com conteúdo incorporado do YouTube.
+- Uma **seção de vídeos** com `conteúdo incorporado` do YouTube.
 
 
-- Um **rodapé** com categorias de programação, data science, UX e design, inovação e gestão, front-end, devops e mobile.
+- Um **rodapé** com `categorias` de programação, data science, UX e design, inovação e gestão, front-end, devops e mobile.
 
 ## Como Usar
 
 Acesse o link do deploy: [Alura Play]()
 
-Ou se quer repoduzir na sua IDE, basta clonar o repositório e abrir o arquivo `index.html` em um navegador web para visualizar o projeto.
+Se quer repoduzir na sua IDE, basta **clonar o repositório** [https://github.com/MarceloRodrigues1853/Alura_Play-ONET6.git] e abrir o arquivo `index.html` em um navegador web para visualizar o projeto.
+
+
 
 ## Contribuindo
 
