@@ -27,7 +27,7 @@ O projeto consiste em uma página HTML básica com a **implementação de flexbo
 
 ## Como Usar
 
-Acesse o link do deploy: [Alura Play]()
+Acesse o link do deploy: [Alura Play](https://alura-play-onet-6.vercel.app/)
 
 Se quer repoduzir na sua IDE, basta **clonar o repositório** [https://github.com/MarceloRodrigues1853/Alura_Play-ONET6.git] e abrir o arquivo `index.html` em um navegador web para visualizar o projeto.
 
